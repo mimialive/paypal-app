@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.86.71:8191/landmark/repository/tesla-fejenkins-releases/</url>
+	      <url>http://172.31.86.71:8191/landmark/repository/paypal-app-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.86.71:8191/landmark/repository/tesla-fejenkins-snapshots/</url>
+	      <url>http://172.31.86.71:8191/landmark/repository/paypal-app-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
